@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
--   [![https://linkedin.com/in/Mateusz Pacan](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mateusz Pacan) - linkeding ?
+-   [![https://linkedin.com/in/Mateusz Pacan](https://ionicabizau.github.io/badges/paypal.svg)](https://linkedin.com/in/Mateusz Pacan) - linkeding ?
 -   [![https://paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 # 💻 Tech Stack:
