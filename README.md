@@ -1,4 +1,4 @@
-## Hi, how are you? 👋
+ **Hi, how are you?** 👋
 
 -   🤠 I am Software Engineer with passion for Biomedical and Sports 
 -   📬 Shoot me an [Email](mateuszpacan@outlook.com) or add me on [LinkedIn](https:/www.linkedin.com/in/mateusz-pacan-505626183/)
